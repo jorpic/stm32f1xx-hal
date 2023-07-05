@@ -27,7 +27,7 @@
 //! - Input
 //!     - **PullUp**: Input connected to high with a weak pull up resistor. Will be high when nothing
 //!     is connected
-//!     - **PullDown**: Input connected to high with a weak pull up resistor. Will be low when nothing
+//!     - **PullDown**: Input connected to low with a weak pull up resistor. Will be low when nothing
 //!     is connected
 //!     - **Floating**: Input not pulled to high or low. Will be undefined when nothing is connected
 //! - Output
